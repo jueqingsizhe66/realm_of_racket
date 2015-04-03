@@ -1,0 +1,1 @@
+("6.1.1" ("5cc5a984fb5ddbd58f2a8029704a6e75ed25d8d7" . "ba8aa8fabf423b9397b64cb002e141166229b39f") (collects #"rackunit" #"main.rkt") (collects #"realm" #"chapter14" #"shared.rkt") (collects #"rackunit" #"text-ui.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"2htdp" #"universe.rkt") (collects #"racket" #"main.rkt"))
